@@ -1,17 +1,13 @@
 {
   "name": "npm-register-cli",
-  "version": "2018.11.20",
+  "version": "2019.3.22",
   "description": "npmjs.com register package",
   "keywords": [
     "npm"
   ],
   "homepage": "https://github.com/looking-for-a-job/npm-register-cli",
-  "license": "MIT",
+  "license": "Unlicense",
   "bin": {
     "npm-register": "./scripts/npm-register"
-  },
-  "os": [
-    "darwin",
-    "linux"
-  ]
+  }
 }
