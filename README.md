@@ -1,5 +1,6 @@
 <!--
 https://pypi.org/project/readme-generator/
+https://pypi.org/project/python-readme-generator/
 -->
 
 [![](https://img.shields.io/badge/OS-Unix-blue.svg?longCache=True)]()
@@ -19,7 +20,7 @@ $ [sudo] pip install npm-register-cli
 #### Features
 +   register npmjs.com package
 
-#### CLI
+#### Scripts usage
 ```bash
 usage: npm-register name ...
 ```
@@ -32,5 +33,5 @@ https://www.npmjs.com/package/name2
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/readme-generator/">readme-generator</a>
+    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
 </p>
